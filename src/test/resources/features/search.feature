@@ -7,5 +7,5 @@ Feature: Wikipedia search
     Given Keyword for search is "Google Company"
     When User does search
     Then Wiki page "Google" is on the first page
-    
+
     
